@@ -60,8 +60,11 @@
 
 
 ## 📘 Learning & Knowledge  
-- [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
-- [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
+**High-Level Overview:** Knowledge management and continuous learning tools. These skills help organize information into interconnected knowledge graphs and guide iterative learning or development processes - ideal for building personal knowledge bases and planning growth trajectories.
+
+**Skills (2):**
+- [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks. *Use for: Knowledge graphs, research synthesis, concept mapping*
+- [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops. *Use for: Learning roadmaps, product iteration, skill development*
 
 
 
